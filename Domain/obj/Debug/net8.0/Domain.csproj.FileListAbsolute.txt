@@ -1,0 +1,11 @@
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\bin\Debug\net8.0\Domain.dll
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\bin\Debug\net8.0\Domain.pdb
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\obj\Debug\net8.0\Domain.dll
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\obj\Debug\net8.0\Domain.pdb
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Domain\obj\Debug\net8.0\ref\Domain.dll

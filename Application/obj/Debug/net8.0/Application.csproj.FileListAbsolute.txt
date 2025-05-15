@@ -1,0 +1,15 @@
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\bin\Debug\net8.0\Application.deps.json
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\bin\Debug\net8.0\Application.dll
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\bin\Debug\net8.0\Application.pdb
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\bin\Debug\net8.0\Domain.dll
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\bin\Debug\net8.0\Domain.pdb
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\Application.dll
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\refint\Application.dll
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\Application.pdb
+D:\1_Wep Dev_Track\Projects\RafiQ\RafiQ\Application\obj\Debug\net8.0\ref\Application.dll
